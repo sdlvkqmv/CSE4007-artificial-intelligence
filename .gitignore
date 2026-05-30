@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 보고서/강의자료
+*.pdf
+*.docx
+
+# 대용량 모델 파일 (159MB)
+Assignment#2/model/
+
+# 강의자료/제출 아카이브
+인공지능 강의자료.zip
+Assignment#3/과제3.zip
+Assignment#1/*.zip
+Assignment#2/*.zip
+Assignment#3/*.zip
+
+# Textual Inversion 생성 결과물
+Assignment#3/reference_images/*/output/
+
+# 임시 파일
+*.tmp

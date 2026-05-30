@@ -30,3 +30,6 @@ Assignment#3/reference_images/*/output/
 
 # 임시 파일
 *.tmp
+
+# 강의 전사 노트
+notes/
